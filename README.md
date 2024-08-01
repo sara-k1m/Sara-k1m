@@ -1,5 +1,5 @@
-## Welcome to my page!
-I’m Sara, a college student who is majoring in both Art&Technology and Software(Computer Science) from 🇰🇷Korea.
+## Welcome to my page! 
+  I’m Sara, a college student who is majoring in both Art&Technology and Software(Computer Science) from 🇰🇷Korea.
 
 ### Things I code with
 
