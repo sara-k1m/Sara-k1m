@@ -1,5 +1,7 @@
 ## Welcome to my page!
-I’m Sara, a college student who is majoring in Art&Technology and Software(Computer Science) from 🇰🇷Korea.
+I’m Sara, a college student who is majoring in both Art&Technology and Software(Computer Science) from 🇰🇷Korea.
+
+# Things I code with
 
 <!--
 **sara-k1m/Sara-k1m** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
